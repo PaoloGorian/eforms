@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "eforms"
+  "defaultProject": "eforms",
+  "cli": {
+    "analytics": false
+  }
 }
